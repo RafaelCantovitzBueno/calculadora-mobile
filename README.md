@@ -36,5 +36,5 @@ O aplicativo será iniciado e poderá ser testado diretamente no seu dispositivo
 ✔ Suporte para diferentes tamanhos de tela  
 ✔ Animações e efeitos visuais para uma melhor experiência do usuário  
 
-## 🐝 Licença
+## 📜 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo conforme necessário.
